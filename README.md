@@ -1,6 +1,7 @@
 # eapp
 
-A new Flutter project.
+Flutter project.
+Build this app purpose is basically to learn about new tech or app development.
 
 ## Getting Started
 
