@@ -7,6 +7,11 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 ![login](https://github.com/Khiladi19/E-App/assets/112451686/2d86f721-53c4-4c37-a38c-7e1acda624b2)
+![frontview](https://github.com/Khiladi19/E-App/assets/112451686/3fcf0621-43f2-4f3a-b9b8-ade5709f7bee)
+![cart](https://github.com/Khiladi19/E-App/assets/112451686/60f7dbd6-4e54-482a-981f-6250c0f89648)
+![insideview](https://github.com/Khiladi19/E-App/assets/112451686/6a08db5a-a865-47fd-94a4-0a468c16fc07)
+
+
 
 
 
