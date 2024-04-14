@@ -1,11 +1,11 @@
-# eapp
-
-Flutter project.
+# Eapp
+## Flutter project
 Build this app purpose is basically to learn about new tech or app development.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+## Feature
+* User can buy a product
+* User can add prouduct through cart.
+* User can see a product feature through click.
 
 ![login](https://github.com/Khiladi19/E-App/assets/112451686/2d86f721-53c4-4c37-a38c-7e1acda624b2)
 ![frontview](https://github.com/Khiladi19/E-App/assets/112451686/3fcf0621-43f2-4f3a-b9b8-ade5709f7bee)
